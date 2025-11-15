@@ -28,5 +28,6 @@ The project delivered a fully cleaned dataset, comprehensive exploratory analysi
 
 # 🗂️ Project's Final Important Chart: 
 # 🚦🚗📊 Overview of Traffic Accident Patterns & Hotspots (image):
-<img width="2386" height="2665" alt="image" src="https://github.com/user-attachments/assets/360e9e87-e30c-42d7-a5d0-02cc58293637" />
+<img width="2386" height="2665" alt="image" src="https://github.com/user-attachments/assets/340a0602-fc4e-448a-b4b0-8a5e7edac067" />
+
 
